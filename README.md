@@ -105,6 +105,7 @@ For a detailed introduction, full list of features and architecture overview ple
 3. Unpack and `cd` into the unpacked folder
 4. Run `npm start`
 5. Browse to <http://localhost:3000>
+6. test--to run
 
 > Each packaged distribution includes some binaries for `sqlite3` and
 > `libxmljs` bound to the OS and node.js version which `npm install` was
